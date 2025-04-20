@@ -1,1 +1,0 @@
-# Women-and-Livelihood-Project
