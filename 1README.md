@@ -32,7 +32,6 @@ This project analyzes the impact of women empowerment initiatives on livelihood 
 
 ## Data Source
 Aatapi Seva Foundation  
-[Website](insert_link_here) | hr.aatapi@gmail.com | ceo@aatapi.org
 
 ## Conclusion
 The analysis demonstrated positive impacts of empowerment programs, with educated women showing higher incomes and better access to financial resources, contributing to improved livelihoods.
